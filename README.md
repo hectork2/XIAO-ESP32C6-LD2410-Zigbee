@@ -1,7 +1,10 @@
 # DIY Zigbee Sensors with ESP32-C6 / ESP32-H2
 
-*** WORK IN PROGRESS ***  
-************************
+UPDATE JANUARY 2026: This project is longer maintained, I simply do not have the time it requires.
+
+However, it has been forked and made better than it ever was by https://github.com/notownblues/
+
+SEE HERE: https://github.com/notownblues/SHS-Z2M-Presence
 
 READ FULL GUIDE HERE:  
 👉 [DIY Zigbee mmWave Presence Sensor with ESP32-C6 and LD2410](https://smarthomescene.com/guides/diy-zigbee-mmwave-presence-sensor-with-esp32-c6-and-ld2410/)
