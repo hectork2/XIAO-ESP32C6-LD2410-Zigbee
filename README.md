@@ -132,8 +132,6 @@ Checklist:
 - [ ] You can see endpoint/cluster data in Z2M device page  
 - [ ] Z2M logs show attribute reports when you move/stand still
 
-**Persian note:**  
-اگر `occupancy` درست آپدیت می‌شود ولی `moving/static` نه، تقریباً همیشه مشکل از **کانورتر Z2M** است (نه UART یا سنسور).
 
 ---
 
